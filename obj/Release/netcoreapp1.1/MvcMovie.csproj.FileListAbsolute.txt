@@ -1,0 +1,10 @@
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\App_Data\movieDB.sqlite
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\MvcMovie.deps.json
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\MvcMovie.runtimeconfig.json
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\MvcMovie.dll
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\bin\Release\netcoreapp1.1\MvcMovie.pdb
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\obj\Release\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\obj\Release\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\obj\Release\netcoreapp1.1\MvcMovie.dll
+F:\Learning\VisualStudio2017\Projects\MvcMovie\MvcMovie\obj\Release\netcoreapp1.1\MvcMovie.pdb
